@@ -1,7 +1,7 @@
 A simple LZ78 and LZW compressor.
 
 With this, it should be possible to elaborate all kinds of file.
-Keep in mind that, being a lossless compressor, it is not able to reduce ALL kind of files.
+Keep in mind that, being a lossless compressor, it is not able to reduce ALL files.
 We suggest the compression of files with low entropy such as textfiles or ".bmp".
 Files with high entropy such as archives or jpeg will probably be enlarged.
 
