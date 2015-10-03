@@ -1,2 +1,0 @@
-/usr/bin/ar cq libLZ78.a  CMakeFiles/LZ78.dir/src/LZ_78.cc.o CMakeFiles/LZ78.dir/src/bit_IO.cc.o
-/usr/bin/ranlib libLZ78.a

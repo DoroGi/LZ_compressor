@@ -1,2 +1,0 @@
-/usr/bin/ar cq libbit_IO.a  CMakeFiles/bit_IO.dir/src/bit_IO.cc.o
-/usr/bin/ranlib libbit_IO.a

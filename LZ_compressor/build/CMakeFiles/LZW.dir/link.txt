@@ -1,2 +1,0 @@
-/usr/bin/ar cq libLZW.a  CMakeFiles/LZW.dir/src/LZ_W.cc.o CMakeFiles/LZW.dir/src/bit_IO.cc.o
-/usr/bin/ranlib libLZW.a
