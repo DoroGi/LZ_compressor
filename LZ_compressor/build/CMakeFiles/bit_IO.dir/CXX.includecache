@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+../include/bit_IO.h
+vector
+-
+cstdint
+-
+
+/home/dorus/Documenti/Serious Business/Esami da dare/2.2 Source Coding/Progetto/LZ_compressor/src/bit_IO.cc
+bit_IO.h
+/home/dorus/Documenti/Serious Business/Esami da dare/2.2 Source Coding/Progetto/LZ_compressor/src/bit_IO.h
+bitset
+-
+

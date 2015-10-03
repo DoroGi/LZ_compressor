@@ -1,0 +1,54 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+../include/LZ_78.h
+compressor.h
+../include/compressor.h
+vector
+-
+
+../include/bit_IO.h
+vector
+-
+cstdint
+-
+
+../include/compressor.h
+string
+-
+limits
+-
+map
+-
+
+/home/dorus/Documenti/Serious Business/Esami da dare/2.2 Source Coding/Progetto/LZ_compressor/src/LZ_78.cc
+LZ_78.h
+/home/dorus/Documenti/Serious Business/Esami da dare/2.2 Source Coding/Progetto/LZ_compressor/src/LZ_78.h
+bit_IO.h
+/home/dorus/Documenti/Serious Business/Esami da dare/2.2 Source Coding/Progetto/LZ_compressor/src/bit_IO.h
+math.h
+-
+istream
+-
+iostream
+-
+bitset
+-
+list
+-
+queue
+-
+string
+-
+
+/home/dorus/Documenti/Serious Business/Esami da dare/2.2 Source Coding/Progetto/LZ_compressor/src/bit_IO.cc
+bit_IO.h
+/home/dorus/Documenti/Serious Business/Esami da dare/2.2 Source Coding/Progetto/LZ_compressor/src/bit_IO.h
+bitset
+-
+

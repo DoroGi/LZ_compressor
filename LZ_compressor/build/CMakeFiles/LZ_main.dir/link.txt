@@ -1,0 +1,1 @@
+/usr/bin/c++   -std=c++0x   CMakeFiles/LZ_main.dir/src/LZ_main.cc.o  -o ../bin/LZ_main -rdynamic libbit_IO.a libLZ78.a libLZW.a 

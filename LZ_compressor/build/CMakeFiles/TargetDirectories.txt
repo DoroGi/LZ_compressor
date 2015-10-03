@@ -1,0 +1,4 @@
+/home/dorus/Documenti/Serious Business/Esami da dare/2.2 Source Coding/Progetto/LZ_compressor/build/CMakeFiles/LZ_main.dir
+/home/dorus/Documenti/Serious Business/Esami da dare/2.2 Source Coding/Progetto/LZ_compressor/build/CMakeFiles/bit_IO.dir
+/home/dorus/Documenti/Serious Business/Esami da dare/2.2 Source Coding/Progetto/LZ_compressor/build/CMakeFiles/LZ78.dir
+/home/dorus/Documenti/Serious Business/Esami da dare/2.2 Source Coding/Progetto/LZ_compressor/build/CMakeFiles/LZW.dir
